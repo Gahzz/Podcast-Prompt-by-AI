@@ -1,0 +1,2 @@
+Prompt:
+cybernetic humanoid with half-human half-machine face, glowing neural eyes, surrounded by holographic images and pixel mosaics, futuristic AI theme, neon cyberpunk colors, cinematic backlighting, ultra detailed, photorealistic, hyper realistic, 8k, global illumination, cinematic light, science fiction atmosphere --ar 1:1 --v 5.2
